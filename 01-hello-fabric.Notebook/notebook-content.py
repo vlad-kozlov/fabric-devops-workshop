@@ -46,3 +46,17 @@ print(f"Notebook run at: {datetime.now()}")
 # META   "language": "python",
 # META   "language_group": "synapse_pyspark"
 # META }
+
+# CELL ********************
+
+# New feature: Calculate something
+numbers = [1, 2, 3, 4, 5]
+total = sum(numbers)
+print(f"The sum of {numbers} is {total}")
+
+# METADATA ********************
+
+# META {
+# META   "language": "python",
+# META   "language_group": "synapse_pyspark"
+# META }

@@ -60,3 +60,16 @@ print(f"The sum of {numbers} is {total}")
 # META   "language": "python",
 # META   "language_group": "synapse_pyspark"
 # META }
+
+# CELL ********************
+
+# New feature in development - not yet deployed
+print("This is a new feature!")
+print("It's only in dev - production doesn't have this yet.")
+
+# METADATA ********************
+
+# META {
+# META   "language": "python",
+# META   "language_group": "synapse_pyspark"
+# META }
